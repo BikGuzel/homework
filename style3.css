@@ -1,0 +1,25 @@
+table {
+    border: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 10px;
+    /*фоновый цвет для таблицы*/
+    background-color: #aaaaaa;
+    }
+    tr{
+    /*фоновый цвет для строки*/
+    background-color: #cccссс;
+    }
+    
+    
+    
+    thead{
+    
+        border-bottom: 1px solid #ebebeb;}
+
+        tfoot{
+            border-top: 1px solid #ebebeb;
+           }
+           .bordered {
+            padding: 3px;
+            border: 3px double #cecec;
+        }
